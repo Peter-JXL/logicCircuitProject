@@ -4,6 +4,7 @@
 		<lc:ProjectId>afbf8d67-619e-4bd7-bfee-29c004702fd2</lc:ProjectId>
 		<lc:Name>电路项目</lc:Name>
 		<lc:LogicalCircuitId>8a01da82-8df1-464d-a509-2c73ffbf961b</lc:LogicalCircuitId>
+		<lc:CategoryTextNoteCollapsed>True</lc:CategoryTextNoteCollapsed>
 		<lc:CategoryInputOutputCollapsed>True</lc:CategoryInputOutputCollapsed>
 		<lc:CategoryPrimitivesCollapsed>True</lc:CategoryPrimitivesCollapsed>
 	</lc:Project>
